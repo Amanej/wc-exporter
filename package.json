@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "jsonfile": "^4.0.0",
     "woocommerce": "^2.4.0"
   }
 }
